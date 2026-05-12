@@ -1,0 +1,6 @@
+{
+  "name": "SIMBAT Aceh Tamiang Dashboard",
+  "description": "Dashboard Sistem Manajemen Banjir (SIMBAT) untuk pemantauan real-time tinggi muka air, distribusi bantuan, dan status bencana di wilayah Aceh Tamiang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
